@@ -1,0 +1,29 @@
+POST 1 (Slide Deck: The Science of What AI Actually Rewards):
+[Hook from LinkedIn]: LLM visibility starts with knowing which signals your market rewards. ~98,000 ChatGPT citations across 7 verticals show which content signals lift citations.
+
+[Core Strategy Text from Growth-Memo.com]:
+- Finance is the most corporate-locked vertical at 0.5% User Generated Content (UGC). YMYL (Your Money, Your Life) content systematically suppresses citations to community opinion.
+- Crypto has the highest UGC penetration at 9.2% (Reddit threads, Medium tutorials, developer forums fill fast-moving technical gaps).
+- Shorter, highly focused, entity-rich definitive pages outperform broad "ultimate guide" structures for securing AI engine citations.
+
+--- NEW POST ---
+
+POST 2 (Topic: Topic-Specific AI Citations and Off-Property Authority):
+[Hook from LinkedIn]: AI trusts a different set of sources for every topic. There's no fixed list it pulls from. The off-property authority you build has to be topic-specific, too.
+
+[Core Strategy Text]:
+- AI citation mixes change drastically depending on the question topic. For invoicing questions, competitor domains hold 33.5% of what AI cites. For starting a business, competitor sources drop to only 7%.
+- Building broad mentions everywhere wastes marketing budget. If you replicate a PR/backlink plan from a neighboring topic, you will completely miss the specific set of domains that AI actually pulls from for your exact niche.
+- Owned content (your own website) is one of your weaker inputs for AI search visibility. Publications, external industry experts, and competitors that mention you carry far more weight because the LLM doesn't have to take your own word for it.
+- Actionable Framework: Map out the specific domains AI is already citing for your target topic, then systematically earn your way onto those exact websites.
+
+--- NEW POST ---
+
+POST 3 (Topic: Good Prompt Tracking and Sample Design in GEO/AEO):
+[Hook from LinkedIn]: Good prompt tracking starts with sample design. That is how prompt tracking becomes more accurate: each answer becomes one sample in a designed panel, not one truth in a dashboard.
+
+[Core Strategy Text]:
+- For an average B2B SaaS CRM category, track a panel of ~40 seed prompts: 12 brand prompts, 12 category prompts, and 16 problem prompts. Problem prompts are critical because that is where purchase intent usually lives.
+- Testing Methodology: Run each prompt 5x per platform every week. Platforms like ChatGPT, Perplexity, Gemini, and Google AI Overviews must each receive their own individual score. Do not aggregate the data; aggregation hides how differently these engines behave.
+- Panel Demographics (Personas): Your tracking panel must account for different buyer personas. A CFO, an IT leader, and a marketing buyer evaluate the same CRM category through entirely different criteria. Averaging them together masks where a brand actually wins or loses.
+- Core Metrics to Track: The ideal tracking metrics set should include mention rate, citation rate, average position, sentiment, and the attributes attached to each mention—all measured with confidence intervals.
