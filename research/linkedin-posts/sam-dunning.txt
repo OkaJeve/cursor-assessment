@@ -1,0 +1,137 @@
+POST 1:
+Old way of SEO: Traffic at all costs.
+
+The new SEO: Less traffic, more qualified pipeline.
+
+Organic traffic is vanity for your B2B/SaaS unless its turning into opportunities for your sales team. 
+
+Especially now LLMs send a tiny amount of traffic to websites as they wanna keep you on platform.
+
+Money keywords/prompts are the foundation of a successful SEO & AI search strategy.
+
+The high-intent bottom of the sales funnel search terms that indicate your prospect is actively in market for solutions like yours and likely keen to book a demo, sign-up or grab a call. 
+
+Earn mindshare and get into the consideration set of your ICP.
+
+Instead of wasting time on top funnel, information gathering keywords that bring traffic (many eaten by AI overviews & ChatGPT) but no conversions, focus on those that signal buying intent.
+
+Identify what your customers search for when they’re ready to evaluate options or compare: 
+
+Think:
+
+“Best [software] for [niche you serve]” “[competitor] alternative”
+“[competitor] pricing”
+ “[competitor 1] vs [competitor 2]” 
+ "Best [niche] platform/tools/software"
+ and many more
+
+These long-tail keywords may not have the highest monthly traffic volume, but they drive conversions.
+
+Many are also low difficulty and can drive demos fast as 90 days.
+
+And a good chunk of these pages tend to get picked up well in LLMs right now to get citations and brand mentions.
+
+PS. grab my 90 days to revenue SEO & AI search mini-guide and video: https://lnkd.in/et7yce7s
+
+--- NEW POST ---
+
+POST 2:
+If I was a CMO with giant competitors dominating AI SEO....I'd run this sneaky playbook to force em out, get recommended & drive pipeline and $$$ from my ICP in 90 days:
+
+(based on data from 40+ active SaaS clients at Breaking B2B)
+
+1. Build your money keyword/prompt matrix.
+
+Fire up a Google Sheet with four columns. Column one: every way someone can refer to your software (e.g. for Proposify this might be - proposal software, proposal tools, proposal platforms, quoting software). Column two: every industry you sell into. Not ones you'd like to serve. Check your CRM and find the ones where you've historically sold well, they have the problem you solve, they're motivated to fix it, and they have cash to invest. Column three: every competitor that comes up to an annoying level on sales calls. Column four: your dream clients' jobs to be done and struggling moments. Pull your sales call recordings. Look at the juicy problems that keep coming up. Those are your golden nuggets.
+
+2. Make long-tail money keywords/prompts.
+
+Combine your columns to build what we call long-tail money keywords. These are what your dream clients search for when they actually have buying intent, not when they're messing around information gathering. For Fibbler this might be: "Best linkedin ads attribution software." "HockeyStack alternative." "Dreamdata versus HockeyStack." These terms look small in Ahrefs. Low search volume. But they also have low keyword difficulty, and the people searching them are not messing around. They're actively evaluating or looking to move away from their current vendor. We've seen competitor pages rank as quick as days.
+
+3. Run a visibility audit Google each money keyword. 
+
+Then search it in an LLM. Are you in the top placements on Google organic? Is your brand being recommended in ChatGPT, Claude, and other LLMs? If not, look at the citations. What pages are being pulled in? For bottom of funnel terms, it's often listicle-based articles. Things like "we reviewed the best HockeyStack alternatives of 2026." Along with the usual suspects like G2, Capterra, and Reddit. That tells you exactly what you need to work on.
+
+4. Build a dedicated page for each money keyword/prompt.
+
+Control the narrative on your own website before you worry about off-page SEO. Match the intent. If the top results for an alternatives term are listicles, build a listicle. Give a quick summary up front, a comparison table, and position yourself number one on the list backed by customer research. Show where you're a great fit and where you're a poor fit. Add your pricing, a screenshot or GIF of your product in action, a customer review, and a fair non-biased comparison of the other tools. Look at their G2 ratings. Review their software. Make it genuinely useful.
+
+5. Earn spots on external sites.
+
+Once you've built your own pages, go after the sites being pulled into ChatGPT and ranking on Google for your money keywords. Ask to be featured in their top three placements. Some will be pay to play, which is sometimes a necessary evil. Others you can offer a fair exchange. If they give you a placement in their roundup, maybe you feature them on your podcast or do some kind of interview in return. Also get active on G2, Capterra, and relevant Reddit threads if you have the resources.
+ 
+6. Use AI to draft, humans to make it real.
+
+You can use AI to pull customer research, pull insights, and give a solid outline for a page. But always add a human touch. Especially if you're selling a high contract value solution. You don't want someone to land on your page or see it cited in AI search and think "these folks don't have a clue about my world, my problems, my goals." That's where the traffic surge from AI-generated content eventually tanks. Google rolls out helpful content updates. Make sure your pages resonate and appeal to your dream clients.
+
+7. Stay focused and keep going.
+
+Work through every single money keyword and money prompt. Review each one on Google and in AI search. Build best-in-class pages that blow out anything already ranking. Then earn the backlinks and brand mentions. Stick at this strategy and you can start driving pipeline and revenue as quick as 90 days. Some clients see it faster if they're more aggressive with the content, backlinks and brand mentions. There are riches in the niches.
+
+--- NEW POST ---
+
+POST 3:
+RB2B is gonna break $10M+ ARR.
+
+Breaking B2B run their SEO/AEO machine.
+
+epic work in 2+yrs from Adam Robinson and one of the smallest bootstrapped teams I've seen make it happen.
+
+Here's their exact strategy this month for their SEO/AEO...
+
+
+1. High level overview
+
+Our core focus drive inbounds quick as humanly possible from AI search & google organic.
+
+This month’s works includes competitor-focused page and two educational pieces targeting users across the consideration and awareness stages of the funnel. 
+
+Along with some existing money page updates + backlink and external listicle placement works. 
+
+
+2. Update existing content.
+
+- builtwith alternative
+- apollo io reviews
+- apollo vs zoominfo
+
+Updates include: fixing titles and last updates dates, adding comparison tables (LLMs often pick these up) and quick intro's + why trust us upfront, adding new relevant tools to article listicles, adding a "Key Features to Look For" section with a feature comparison table calibrated to buyer expectations (not RB2B's product framing) and much more.
+
+
+3. New new content.
+
+- seamless ai alternatives (350 searches/mo)
+- how to find out demographics of B2B website visitors (200 searches/mo)
+- cold email templates for high-intent b2b leads (1k searches/mo)
+
+"seamless ai alternatives" targets users actively evaluating contact data and prospecting platforms. RB2B can position itself as an intent-driven alternative to traditional prospecting databases. Making it a strong acquisition opp.
+
+“how to find out demographics of B2B website visitors” problem-aware prospects looking to understand who is visiting their website. Allowing RB2B to educate readers on the limitations of traditional analytics tools and introduce visitor identification and enrichment.
+
+“cold email templates for high-intent b2b leads” focuses on prospects who have already demonstrated buying intent. Sharing how intent signals improve outreach effectiveness and how identifying engaged visitors can make cold emails more timely and relevant. We introduce RB2B as the source of those intent signals.
+
+
+4. Linkbuilding.
+
+DA50+ niche relevant links built for:
+
+- leadfeeder vs lead forensics
+- lead forensics vs leadfeeder 
+- sales outreach strategy
+- sales outreach plan
+- lead capturing
+- b2b lead generation services
+- lead generation companies
+
+
+5. External listicle placements. 
+
+We find listicle articles evaluating software like ours and manually outreach to get top 3 placements in their lists.
+
+Huge for LLM visibility with the brand mention + classic SEO with the backlink.
+
+___
+
+Watch my full 34-minute video breakdown of RB2B SEO/AEO: https://lnkd.in/eiZfaXXq
+
+grab 90 days to revenue SEO/AEO playbook: https://lnkd.in/et7yce7s
