@@ -1,0 +1,30 @@
+POST 1 (Topic: Product-Led Intent vs. Technical SEO Misdiagnosis):
+[Hook from LinkedIn]: The most common misdiagnosis in SEO right now is treating "best [product category]" and "[Brand A] vs [Brand B]" queries as a technical problem.
+
+[Core Strategy Text]:
+- Auditing your way to the top of comparison and bottom-of-funnel brand terms never works. No technical audit is going to fix a visibility problem for these high-intent queries.
+- High-intent commercial queries are won or lost based on third-party trust, not on-page mechanics. The pages that dominate these rankings don't own the spots because their schema is perfect or their page speed is fast.
+- True Search & AI Engine Authority: Brands get cited because their products are actively discussed, reviewed honestly, and cited repeatedly by objective, third-party sources with no financial stake in the outcome.
+- Actionable Takeaway: This is a PR and brand problem being handed to the wrong team with the wrong tools. Stop treating commercial brand visibility as an IT or technical checklist—focus instead on earning authentic off-site mentions and honest product reviews.
+
+--- NEW POST ---
+
+POST 2 (Topic: The AI Mode Shift and the End of Traditional Traffic Metrics):
+[Hook from LinkedIn]: Google didn’t just update Search at I/O. It changed it. If you’re still grading yourself on rankings and traffic, you’re scoring a game that no longer exists.
+
+[Core Strategy Text]:
+- The shift from Search Generative Experience (SGE) to AI Overviews, and finally to full "AI Mode," represents a complete structural evolution, not just a cosmetic update.
+- Passive Discovery vs. Active Intent: In "AI Mode," AI agents actively crawl the web and answer user queries deeply in the background before a human ever clicks or reaches an actual website page.
+- The New Core Scoreboard: Traditional organic traffic volume and keyword ranking numbers are dying metrics. Modern SEO visibility must be measured by "Citations," "Prompt Coverage," and "Brand Mentions."
+- Content Disruption: The type of content optimized to win decision-stage or complex "fan-out" queries looks fundamentally different from legacy SEO content patterns. Winning requires auditing and publishing specifically for LLM synthesis rather than human click-throughs.
+
+--- NEW POST ---
+
+POST 3 (Topic: The Two-Sided Marketplace Visibility Gap and Training Data Bias):
+[Hook from LinkedIn]: Upwork has lost nearly half its value in a year... They have AI visibility, which is important for this pivot, but it's just the wrong kind.
+
+[Core Strategy Text]:
+- The Danger of Misaligned Visibility: Headline visibility metrics can hide structural flaws. For a two-sided marketplace like Upwork, they need equal visibility with both freelancers and hiring companies, but their current AI footprint skews heavily toward freelancers.
+- The Demand-Side Erosion: This skew creates a critical problem because the buyer side (hiring companies) is where the actual revenue lives. If companies use AI tools instead of hiring freelancers, demand drops.
+- Fixed Positioning vs. Keyword Gaps: If an AI model fundamentally learns to define a brand one-sidedly (e.g., classifying a platform solely as "a place for freelancers to find work"), it becomes a deep positioning problem baked directly into the LLM training data. 
+- Strategic Takeaway: An SEO/AEO visibility gap is often just a symptom of a deeper brand perception issue. You cannot treat a foundational LLM classification problem as a simple "keyword gap" that can be patched with standard technical SEO content.
