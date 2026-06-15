@@ -1,0 +1,19 @@
+POST 1 (Topic: Scaled Semantic SEO Architecture & Topic Clusters):
+[Hook from LinkedIn]: How we scaled an enterprise SaaS platform to 1M+ monthly organic sessions without building a single low-quality backlink. It comes down to clean semantic topical authority.
+
+[Core Strategy Text]:
+- The Topical Authority Blueprint: Search engines and AI models map websites based on semantic relationships. If you write about a core topic, you must cover every adjacent sub-topic and user question to prove complete topical coverage.
+- Programmatic Cluster Scaling: Build a strict hub-and-spoke architecture. The parent Hub page targets the high-level commercial head term, while 20 to 30 highly optimized Spoke pages target explicit, long-tail variations. 
+- Contextual Internal Linking Rules: Every single Spoke page must pass page equity and semantic context back to the Hub page using strict, exact-match anchor text. Never leave orphan pages outside of the cluster map.
+
+--- NEW POST ---
+
+POST 2 (Topic: AI-Assisted Content Production Filters):
+[Hook from LinkedIn]: AI shouldn't write your content. AI should build your first draft structural skeletons. The value is in the editing layer.
+
+[Core Strategy Text]:
+- The 70/30 Content Split: Use LLMs to handle 70% of the heavy lifting—keyword clustering, outline generation, and initial section drafting. Dedicate the remaining 30% of human energy entirely to data injection, editorial polish, and proprietary insights.
+- The Human Value Filter: Before publishing any AI-assisted draft, it must pass three strict criteria:
+  1. Does it feature exclusive quote perspectives from a real internal subject matter expert?
+  2. Does it include proprietary data, custom charts, or uncopyable images?
+  3. Is it completely stripped of generic AI filler phrases and predictable syntax patterns?
