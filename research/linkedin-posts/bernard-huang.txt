@@ -1,0 +1,17 @@
+POST 1 (Topic: Content Grading Optimization & Semantic Term Co-Occurrence):
+[Hook from LinkedIn]: If you are still building content briefs based on standard keyword density percentages, you are optimizing for a search engine that died five years ago.
+
+[Core Strategy Text]:
+- The Shift to Concept Co-Occurrence: Modern NLP algorithms don't just count your primary target keyword. They score content based on the presence of essential supporting concepts that naturally co-occur in authoritative documents.
+- Topical Gradients vs. Rigid Metrics: True optimization requires hitting a natural distribution of related sub-entities. If your target is "enterprise data storage," the entity engine explicitly expects to see "latency," "redundancy," "provisioning," and "scalability" woven contextually into the body paragraphs.
+- Tactical Workflow: Use text-grading intelligence to identify structural gaps in your drafts before publishing. If your content is grading poorly, don't stuff keywords—restructure entire sections to address the missing technical concepts your competitors have thoroughly answered.
+
+--- NEW POST ---
+
+POST 2 (Topic: Search Intent Decay & The Shelf-Life of Rankings):
+[Hook from LinkedIn]: Your rankings didn't drop because of a core update. They dropped because user intent shifted underneath your feet.
+
+[Core Strategy Text]:
+- The Velocity of Intent Shift: Search engines constantly re-evaluate what users actually want when they type a query. A keyword that used to demand an informational guide might pivot into demanding a transactional calculator overnight.
+- Intent Decay Tracking: Monitor your top-performing URLs for changes in user behavior signals (CTR drops, bounce increases, dwell time compression). If traffic slips while your rank remains stable, the layout or intent classification has evolved.
+- Preventative Re-Optimizations: Review your high-value legacy assets every 6 months. Do not just update the publication date; rewrite the core introduction to match the exact context of current top-performing engine layouts.
